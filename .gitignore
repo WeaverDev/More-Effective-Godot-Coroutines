@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+.vs/
+
+# Others
+stats/
+test/
+icon.svg
+icon.svg.import
+project.godot
+.vscode/
+*.sln
+*.csproj
